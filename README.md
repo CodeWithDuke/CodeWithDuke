@@ -19,8 +19,7 @@
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I look for project ideas and make them.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-dukevu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-%C4%91%E1%BB%A9c-92063223b/)
-
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-dukevu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-%C4%91%E1%BB%A9c-92063223b/) [![Linkedin Badge](https://img.shields.io/badge/-dukevu-darkred?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/@CodewithDuke)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
